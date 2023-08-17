@@ -1,7 +1,5 @@
 
 
-https://github.com/BODDUSRIPAVAN/Online-Leave-Management-System/assets/104664633/700f53f4-ad00-4444-a646-14f42dbc437d
-
 # Online Leave Management System
 <h4>Technologies</h4>
 <ol>
@@ -24,6 +22,8 @@ OLMS is an online leave application platform for students with user authenticati
   <li>Authority portal</li>
   <li>Status update</li>
   <li>Status dashboard</li>
+  <li>Auto Email System</li>
+  <li>Dual-Level Leave Approval</li>
 </ul>
 <h5>Advantages:</h5>
 <ul>
@@ -31,4 +31,4 @@ OLMS is an online leave application platform for students with user authenticati
   <li>Remotely accessible</li>
   <li>Efficient</li>
 </ul>
-About the author: <a href="https://www.linkedin.com/in/boddu-sri-pavan-19a58b239/">Boddu Sri Pavan</a>
+About the author: Bandi Vikram Kumar
